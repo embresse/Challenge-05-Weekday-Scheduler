@@ -12,6 +12,9 @@ N/A
 
 https://github.com/embresse/Challenge-05-Weekday-Scheduler
 
+https://embresse.github.io/Challenge-05-Weekday-Scheduler/
+
+
 ![screenshot.](./Assets/05-third-party-apis-homework-demo.gif)
 
 ## Credits
